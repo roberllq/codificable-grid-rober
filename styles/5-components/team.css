@@ -6,6 +6,7 @@
     max-width: 672px;
     text-align: center;
     margin-inline: auto;
+    margin-bottom: 96px;
 }
 
 .team__title {
@@ -13,4 +14,47 @@
     font-weight: 600;
     font-size: 36px;
     Line-height: 36px
+}
+
+.team__list {
+}
+
+.team__row {
+  max-width: 1216px;
+  text-align: center;
+}
+
+.team__member__item {
+  display: inline-block;
+  padding: 32px;
+}
+
+.team__author {
+  width: 224px;
+  height: 224px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 24px;
+}
+
+.team__member__name {
+  text-align: center;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.team__member__position {
+  text-align: center;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.team__member__links {
+  list-style: none;
+}
+
+.team__member__li {
+  display: inline-block;
+  padding: 5px;
 }
