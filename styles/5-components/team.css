@@ -1,0 +1,16 @@
+.team__content {
+
+}
+
+.team__header {
+    max-width: 672px;
+    text-align: center;
+    margin-inline: auto;
+}
+
+.team__title {
+    margin-bottom: 24px;
+    font-weight: 600;
+    font-size: 36px;
+    Line-height: 36px
+}

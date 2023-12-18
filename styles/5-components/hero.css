@@ -1,5 +1,6 @@
 hero {
   /* background-color: var(--muted); */
+  margin-bottom: var(--spacing-12);
 }
 
 .hero__content {
@@ -36,10 +37,6 @@ hero {
   margin-inline: auto;
 }
 
-
-
-
-/*----------Todo el codigo arriba ya esta
-para hero inicio, blog, etc-------------*/
-
-
+.hero-2 {
+  margin: 48px 0;
+}
