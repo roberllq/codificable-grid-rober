@@ -1,29 +1,9 @@
-/*
-<section class="hero section-lg">
-  <div class="container">
-    <div class="hero__content hero--center">
-      <h2 class="hero__title">Titulo</h2>
-      <p class="hero__lead">
-        Texto
-      </p>
-      <div class="hero__actions">
-        <button class="button">Button</button>
-        <a href="" class="link link--branded"
-          >Link Text
-          <svg>...</svg>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-*/
-
-.hero {
+hero {
   /* background-color: var(--muted); */
 }
 
 .hero__content {
-  max-width: var(--width-2xl);
+  max-width: var(--width-2xl); /*672px*/
 }
 
 .hero__title {
@@ -55,3 +35,11 @@
   text-align: center;
   margin-inline: auto;
 }
+
+
+
+
+/*----------Todo el codigo arriba ya esta
+para hero inicio, blog, etc-------------*/
+
+
