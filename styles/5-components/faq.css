@@ -1,0 +1,34 @@
+.faq {
+    padding: 0 32px;
+    max-width: 896px;
+    margin-inline: auto;    
+}
+
+.faq__content {}
+
+.faq__header {
+font-size: 36px;
+font-weight: 600;
+line-height: 36px;
+margin-bottom: 40px;
+}
+
+.faq__summary {
+  padding: 16px 8px;
+  border-top: 1px solid var(--border, #D4D4D4);
+
+}
+
+.faq__summary__content {
+  gap: 4px;
+}
+
+.faq__items__title {
+  display: inline-block;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.faq__items__text {
+  padding: var(--spacing-4, 16px) var(--spacing-4, 16px) var(--spacing-8, 32px) var(--spacing-6, 24px);
+} 
